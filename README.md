@@ -10,5 +10,6 @@ This script contains codes that
 - Produce a csv file named `task3.csv` containing the team name and average game difference for each team in `task2.csv`. 
 - Generate a plot (saved as `task4.png`) showing the five teams that articles are most frequently written about and the number of times an article is written about that team.
 - Generate a plot (saved as `task5.png`) comparing the number of articles written about each team with their average game difference. 
+
 # Analysis and Report
-Refer to the [report](https://github.com/olivertan1999/Rugby-Game-Webscraper/blob/main/RugbyGameReport.pdf) for a detailed explanation of the result and limitations of the methods and algorithms used.
+Refer to the [report](https://github.com/olivertan1999/Rugby-Game-Webscraper/blob/main/RugbyGameReport.pdf) for a detailed analysis and explanation of the result along with discussions about limitations of the methods used.
