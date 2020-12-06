@@ -12,4 +12,4 @@ This script contains codes that
 - Generate a plot (saved as `task5.png`) comparing the number of articles written about each team with their average game difference. 
 
 # Analysis and Report
-Refer to the [report](https://github.com/olivertan1999/Rugby-Game-Webscraper/blob/main/RugbyGameReport.pdf) for a detailed analysis and explanation of the result along with discussions about limitations of the methods used.
+Refer to the [report](https://github.com/olivertan1999/Rugby-Game-Webscraper/blob/main/RugbyGameReport.pdf) for a detailed description of the methods used, analysis and explanation of the result along with discussions about limitations of the methods used.
