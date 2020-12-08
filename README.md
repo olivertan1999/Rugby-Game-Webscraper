@@ -1,4 +1,4 @@
-# Rugby-Game-Webscraper
+# Rugby Game Webscraper
 
 # Introduction
 The aim of this project is to crawl and scrape information from a number of rugyby game media reports and use that information to improve our understanding of team performance. The seed URL is http://comp20008-jh.eng.unimelb.edu.au:9889/main/.
